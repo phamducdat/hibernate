@@ -1,0 +1,6 @@
+
+L	java:S106	"+Replace this use of System.out by a logger.(“×·ôşÿÿÿÿ8Ò¸³Ç…2
+z
+java:S1450"]Remove the "sessionFactory" field and declare it as a local variable in the relevant methods.(³†„ 8æ‹½Ç…2
+I
+java:S1602!",Remove useless curly braces around statement(óÙ8î‹½Ç…2
